@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Travel lovers everywhere know the time it takes to map out a vacation. You have to research where to stay, how to get there, what to do while you're there. You may have a basic idea of what you like to do, but where's the best place to do it? What else will you do with your trip? This project is the answer. 
+We want to give the average traveler more time to pack and less time planning. Think of it like a travel agent at the tip of your fingers. By merely entering your trip dates, area (if you know), and what kind of things you enjoy on your travels and you receive a list of potential trips. You can save trips you like in your Bucket List. There's even an option to find hidden gems on the way. It's about time you see the biggest ball of yarn! 
+
 ### Features
-Include Features here
+*user authentication
+*user profile: 
+	-Save interests/hobbies
+	-Save Bucket List trips
+*Search feature (takes in user's current location, wanted destination, method of travel, and type of traveler: do they like sightseeing, scuba diving, etc?): 
+	-Gives results
+		+Activities/hidden gems along the way for road travel
+		+Activities at destination
+There are several other features to be added when we get these first features off the ground.
+
 ### Technologies
-Include Technologies here
+C#/.NET
+Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Using more than one API is something I have to look into more. Finding and working with packages that will allow us to search and sort results more easily. 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/J34qr4nR/group-robin
