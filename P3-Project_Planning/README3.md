@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 * [Finished WireFrames PDF](https://drive.google.com/drive/u/1/folders/1ZLPTl5AnniScSV-l0PuzLwZBjozLnxmJ)
-* ![Home Page](/assets/images/Home Page.JPG)
+* ![Home Page](https://github.com/btormino/liftoff-assignments/blob/afb7eca24e928f07e5211cd67c237c1e8a2f0def/Home%20Page.JPG)
 * ![Login Page](/assets/images/Login Page.JPG)
 * ![Profile Page](/assets/images/Profile Page.JPG)
 * ![Results Page](/assets/images/Results Page.JPG)
