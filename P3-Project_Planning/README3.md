@@ -9,11 +9,11 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 * [Finished WireFrames PDF](https://drive.google.com/drive/u/1/folders/1ZLPTl5AnniScSV-l0PuzLwZBjozLnxmJ)
-* ![Home Page](https://drive.google.com/file/d/1KUgWNJ3o9ITa27EzIGhzc4OPrQgyig0N/view?usp=share_link)
-* ![Login Page](https://drive.google.com/file/d/1sJOq8x9pV011fH5z6pnL02bRIKXL0whx/view?usp=share_link)
-* ![Profile Page](https://drive.google.com/file/d/1vp2IYuciAi9bek2ykhZAisfF88hhWhwl/view?usp=share_link)
-* ![Results Page](https://drive.google.com/file/d/1JlLbW9kbQ6aJ7jw9uG6LCmtLIT3Ut_23/view?usp=share_link)
-* ![Search Page](https://drive.google.com/file/d/1rDW46CiElfp8gh5RIK7vOCwTXupXqTkv/view?usp=share_link)
+* ![Home Page](/assets/images/Home Page.JPG)
+* ![Login Page](/assets/images/Login Page.JPG)
+* ![Profile Page](/assets/images/Profile Page.JPG)
+* ![Results Page](/assets/images/Results Page.JPG)
+* ![Search Page](/assets/images/Search Page.JPG)
 
 
 ### Project Tracker
